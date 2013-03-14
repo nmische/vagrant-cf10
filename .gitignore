@@ -1,0 +1,7 @@
+*
+!.gitignore
+!Berksfile
+!Cheffile
+!README.md
+!Vagrantfile.berks
+!Vagrantfile.librarian
