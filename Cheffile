@@ -4,6 +4,6 @@
 site 'http://community.opscode.com/api/v1'
 cookbook 'apache2'
 cookbook 'apt'
-cookbook 'coldfusion10', :git => 'https://github.com/nmische/chef-coldfusion10.git'
+cookbook 'coldfusion10', :git => 'https://github.com/wharton/chef-coldfusion10.git'
 cookbook 'java'
 cookbook 'rng-tools'
